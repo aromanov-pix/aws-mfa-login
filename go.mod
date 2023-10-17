@@ -1,4 +1,4 @@
-module github.com/signavio/aws-mfa-login
+module github.com/aromanov-pix/aws-mfa-login
 
 go 1.19
 
