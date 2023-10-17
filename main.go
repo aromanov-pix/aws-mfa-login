@@ -1,7 +1,7 @@
 package main
 
-import "github.com/signavio/aws-mfa-login/cmd"
+import "github.com/aromanov-pix/aws-mfa-login/cmd"
 
-func main()  {
+func main() {
 	cmd.Execute()
 }

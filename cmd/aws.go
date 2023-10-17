@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/signavio/aws-mfa-login/action"
+	"github.com/aromanov-pix/aws-mfa-login/action"
 	"github.com/spf13/cobra"
 	"log"
 )
